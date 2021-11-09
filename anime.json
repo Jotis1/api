@@ -1,0 +1,17 @@
+{
+    "gotoubun_no_hanayome":{
+        "id": 1,
+        "name": "Gotoubun No Hanayome",
+        "genre": ["Comedia", "Romance", "Recuentos de la vida"],
+        "description": "Fuutarou Uesugi es un estudiante de segundo año de preparatoria/instituto cuya familia siempre ha sido muy pobre. Un día recibe una suculenta oferta de trabajo como tutor a medio tiempo... ¡pero sus estudiantes resultan ser unas chicas de su propia clase! Para complicar más las cosas, son quintillizas... Las cinco hermanas son todas muy atractivas, pero no es lo único que tienen en común: todas odian estudiar y sus calificaciones siempre están al límite de la catástrofe. Tendrá que conseguir que las cinco estudien, pero primero tendrá que estudiar él cómo ganarse su confianza.",
+        "score": 100
+    },
+    "tokyo_ghoul":{
+        "id": 2,
+        "name": "Tokyo Ghoul",
+        "genre": ["Gore", "Urban Fantasy", "Anti-Hero"],
+        "description": "Extraños asesinatos se están sucediendo uno tras otro en Tokyo. Debido a las pruebas encontradas en las escenas, la policía concluye que los ataques son obra de ghouls que se comen a las personas. Kaneki y Hide, dos compañeros de clase, llegan a la conclusión de que si nadie ha visto nunca a esos necrófagos es porque toman la apariencia de seres humanos para ocultarse. Poco sabían entonces de que su teoría sería más cierta de lo que pensaban cuando Kaneki es herido de gravedad por un monstruo y comienza a atraerle cada vez más la carne humana...",
+        "score": 100
+    }
+}
+
